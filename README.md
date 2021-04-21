@@ -1,6 +1,6 @@
 ### Antônio Gerson 
 
-## Apaixonado por Ciência de Dados, Machine Learning e IA, Curioso e "Lifetime Learner", disposto a contribuir com a sociedade através do poder dos Dados! 
+## Apaixonado por Ciência de Dados, Machine Learning e IA, Curioso e "Lifelong Learner", disposto a contribuir com a sociedade através do poder dos Dados! 
 
 - 💻 Cursando Pós graduação em Inteligência Artificial e Machine Learning - PUC Minas;
 - 💻 Cientista de Dados pela Data Science Academy;
