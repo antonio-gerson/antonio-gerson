@@ -1,4 +1,4 @@
-### Antônio Gerson - [Data Scientist] 👋
+### Antônio Gerson 
 
 ## Apaixonado por Ciência de Dados, Machine Learning e IA, Curioso e "Lifetime Learner", disposto a contribuir com a sociedade através do poder dos Dados! 
 
@@ -44,11 +44,6 @@
 
 
 ---
-
-
-
-
-
 <!-- BLOG-POST-LIST:END -->
 
 ---
