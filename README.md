@@ -2,8 +2,9 @@
 
 ## Apaixonado por Ciência de Dados, Machine Learning e IA, Curioso e "Lifelong Learner", disposto a contribuir com a sociedade através do poder dos Dados! 
 
-- 💻 Cursando Pós graduação em Inteligência Artificial e Machine Learning - PUC Minas;
+
 - 💻 Cientista de Dados pela Data Science Academy;
+- 💻 Pós graduação em Inteligência Artificial e Machine Learning pela PUC Minas em curso;
 - 💻 Graduado em Engenharia Mecânica; 
 - 📈 Constantemente aumentando meus skills em Data Science através de treinamentos e cursos;
 - 📊 Em busca de promover a transformação que os dados tem a oferecer na tomada de decisões. 
