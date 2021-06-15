@@ -46,4 +46,4 @@
 
 ---
 [medium]: https://medium.com/@Antoniogersonjunior
-[linkedin]: https://www.linkedin.com/in/antônio-gerson-a5a13a1aa
+[linkedin]: https://www.linkedin.com/in/antonio-g-junior
