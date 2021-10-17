@@ -46,5 +46,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-[medium]: https://medium.com/@Antoniogersonjunior
+[medium]: https://medium.com/@antoniogjunior
 [linkedin]: https://www.linkedin.com/in/antonio-g-junior
